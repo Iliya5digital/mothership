@@ -1,0 +1,48 @@
+.tiles-container {
+    margin: 0;
+    padding: 4px;
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+    overflow: hidden;
+
+    color: #ffffff;
+    background-color: #666656;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.2);
+
+    cursor: pointer;
+}
+
+.tile-title {
+    font-size: 20px;
+}
+
+.tile.known {
+    background-color: #00771e;
+}
+
+.tile.known.recent {
+    background-color: #009926;
+}
+
+.tile.known.warning {
+    background-color: #997b00;
+}
+
+.tile.known.warning.recent {
+    background-color: #bb9500;
+}
+
+.tile.known.error {
+    background-color: #991f00;
+}
+
+.tile.known.error.recent {
+    background-color: #bb2500;
+}

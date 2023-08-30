@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<display version="2.0.0">
+  <name>PSCS</name>
+  <width>820</width>
+  <height>140</height>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>LG.SOL1</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>LG.SOL1</description>
+      </action>
+    </actions>
+    <pv_name>LG.SOL1:Version</pv_name>
+    <x>20</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_4</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>LG.SOL2</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>LG.SOL2</description>
+      </action>
+    </actions>
+    <pv_name>LG.SOL2:Version</pv_name>
+    <x>120</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_5</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>LG.SOL3</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>LG.SOL3</description>
+      </action>
+    </actions>
+    <pv_name>LG.SOL3:Version</pv_name>
+    <x>220</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_6</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>LG.SOL4</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>LG.SOL4</description>
+      </action>
+    </actions>
+    <pv_name>LG.SOL4:Version</pv_name>
+    <x>320</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_7</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>LG.SOL5</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>LG.SOL5</description>
+      </action>
+    </actions>
+    <pv_name>LG.SOL5:Version</pv_name>
+    <x>420</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_10</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>CL1.1</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>CL1.1</description>
+      </action>
+    </actions>
+    <pv_name>CL1.1:Version</pv_name>
+    <x>620</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_11</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>CL1.2</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>CL1.2</description>
+      </action>
+    </actions>
+    <pv_name>CL1.2:Version</pv_name>
+    <x>720</x>
+    <y>20</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_15</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>QLD1</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>QLD1</description>
+      </action>
+    </actions>
+    <pv_name>QLD1:Version</pv_name>
+    <x>320</x>
+    <y>80</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_16</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>QLF2</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>QLF2</description>
+      </action>
+    </actions>
+    <pv_name>QLF2:Version</pv_name>
+    <x>420</x>
+    <y>80</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_18</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>SOLM</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>SOLM</description>
+      </action>
+    </actions>
+    <pv_name>SOLM:Version</pv_name>
+    <x>720</x>
+    <y>80</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_19</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>CL2.1</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>CL2.1</description>
+      </action>
+    </actions>
+    <pv_name>CL2.1:Version</pv_name>
+    <x>20</x>
+    <y>80</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_20</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>CL2.2</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>CL2.2</description>
+      </action>
+    </actions>
+    <pv_name>CL1.2:Version</pv_name>
+    <x>120</x>
+    <y>80</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+  <widget type="action_button" version="3.0.0">
+    <name>Action Button_21</name>
+    <actions>
+      <action type="open_display">
+        <file>psc.bob</file>
+        <macros>
+          <PREFIX>QLF1</PREFIX>
+        </macros>
+        <target>tab</target>
+        <description>QLF1</description>
+      </action>
+    </actions>
+    <pv_name>QLF1:Version</pv_name>
+    <x>220</x>
+    <y>80</y>
+    <width>80</width>
+    <height>40</height>
+    <tooltip>$(actions)</tooltip>
+  </widget>
+</display>
